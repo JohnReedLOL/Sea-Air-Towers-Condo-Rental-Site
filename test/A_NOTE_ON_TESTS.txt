@@ -1,0 +1,5 @@
+Note on tests:
+
+I do all the testing for this app manually so the automated tests in this folder are not used.
+
+I just left these tests in this folder because I left them here in my original app at https://github.com/JohnReedLOL/TypeScript-Node-Starter and this app is a re-write of that using the same starter https://github.com/microsoft/TypeScript-Node-Starter but from the latest commit of that starter. I didn't want to deal with all the merge conflicts so I just cloned the latest version of https://github.com/microsoft/TypeScript-Node-Starter and copied over stuff from https://github.com/JohnReedLOL/TypeScript-Node-Starter
